@@ -40,7 +40,7 @@ common-invited = Invitato
 common-invite = Invita
 common-remove = Rimuovi
 common-key = Chiave
-common-secret = Segreto
+common-secret = Segreto Non capisco...forse codice segreto?
 common-help-1 = Il tuo segreto non sarà visibile dopo la chiusura di questa finestra.
 common-help-2 = Il segreto verrà mostrato solo una volta. Copialo in un luogo sicuro.
 common-match = Corrispondenza
@@ -66,7 +66,7 @@ common-corpora = Corpora
 common-query = Query
 common-query-name = Nome query
 common-query-result = Risultato query
-common-total-progress = Progresso totale
+common-total-progress = Avanzamento
 common-refresh-progress = Aggiorna barra di avanzamento
 common-show-hide-corpus = Mostra/nascondi struttura del corpus
 load-example-query = Carica query di esempio
@@ -113,7 +113,7 @@ common-zoom-fit-content = Adatta al contenuto
 
 menu-home = Home
 menu-query = Query
-menu-viewer = Visualizzatore
+menu-viewer = Visualizzatore Player? Visualizzazione?
 menu-manual = Manuale
 
 ## --------------- MODALI ---------------
